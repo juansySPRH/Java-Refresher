@@ -1,0 +1,8 @@
+class r1String{
+  public static void main(String[] args){
+    String FirstName = "John";
+    String LastName = "Gwapo";
+
+    System.out.print(FirstName + ' ' + LastName);
+  }
+}

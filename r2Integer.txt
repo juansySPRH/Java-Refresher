@@ -1,0 +1,8 @@
+class Main {
+  public static void main(String[] args) {
+    int Score = 10;
+    int targetScore = 100;
+
+    System.out.println("My Score is: " + Score + "/" + targetScore);
+  }
+}
